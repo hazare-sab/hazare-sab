@@ -85,9 +85,6 @@ It includes tenant management, payment records and payment-proof handling, with 
 
 <div align="center">
 
-### Connect with me
 
-<a href="https://www.linkedin.com/in/hazare-sab-3a8b1634a/">LinkedIn</a> •
-<a href="mailto:hazaresab656@gmail.com">Email</a>
 
 </div>

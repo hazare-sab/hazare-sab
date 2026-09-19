@@ -2,7 +2,7 @@
 
 # Hazare Sab
 
-### Computer Science • AI/ML • Java • DSA
+### Computer Science • AI/ML • DSA
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Learning+Java+%26+DSA;Exploring+AI%2FML;Building+Real-World+Projects" />
 

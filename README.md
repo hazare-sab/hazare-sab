@@ -75,16 +75,9 @@ It includes tenant management, payment records and payment-proof handling, with 
 </div>
 ## 📈 Contributions
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hazare-sab&theme=github-compact&hide_border=true" />
-
-</div>
-
----
 
 <div align="center">
 
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hazare-sab&theme=github_dark" />
 
 </div>

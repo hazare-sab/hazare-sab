@@ -65,16 +65,14 @@ It includes tenant management, payment records and payment-proof handling, with 
 
 ## 📊 Stats
 
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hazare-sab&show_icons=true&hide_border=true&theme=chartreuse-dark&rank_icon=percentile&include_all_commits=true" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hazare-sab&theme=github_dark" height="180">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazare-sab&layout=compact&hide_border=true&theme=chartreuse-dark" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hazare-sab&theme=github_dark" height="180">
 
 </div>
-
----
-
 ## 📈 Contributions
 
 <div align="center">

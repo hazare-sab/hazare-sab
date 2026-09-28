@@ -69,4 +69,12 @@ It includes tenant management, payment records and payment-proof handling, with 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hazare-sab&theme=github_dark" height="180">
 
-</
+</div>
+
+## 📈 Contributions
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hazare-sab&theme=github_dark" />
+
+</div>

@@ -65,9 +65,9 @@ It includes tenant management, payment records and payment-proof handling, with 
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hazare-sab&theme=github_dark" height="180">
+<img src="./profile-summary-card-output/cards/stats.svg" height="180">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hazare-sab&theme=github_dark" height="180">
+<img src="./profile-summary-card-output/cards/repos-per-language.svg" height="180">
 
 </div>
 
@@ -75,6 +75,6 @@ It includes tenant management, payment records and payment-proof handling, with 
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hazare-sab&theme=github_dark" />
+<img src="./profile-summary-card-output/cards/profile-details.svg" />
 
 </div>

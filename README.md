@@ -2,9 +2,7 @@
 
 # Hazare Sab
 
-### Computer Science • AI/ML • DSA
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Learning+Java+%26+DSA;Exploring+AI%2FML;Building+Real-World+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Software+Development;AI%2FML;Building+Real-World+Projects" />
 
 <br>
 
@@ -21,21 +19,21 @@
 
 ## 👋 About Me
 
-I'm a **Computer Science student specializing in AI/ML**.
+I'm a **Computer Science student interested in software development, AI/ML, and building real-world projects**.
 
-Currently focused on getting stronger at **programming, problem solving and understanding how things work under the hood**.
+Currently focused on strengthening my **programming, problem solving, and understanding of how software works under the hood**.
 
-I'm spending most of my time learning **Java and Data Structures & Algorithms**, while also exploring **AI/ML and full-stack development** through projects.
+I'm exploring **software development, AI/ML, Data Structures & Algorithms, and open-source projects** through hands-on learning and projects.
 
 ---
 
 ## Currently Learning
 
-- Java
-- Data Structures & Algorithms
-- AI / Machine Learning
-- Full-Stack Development
-- Git & GitHub
+* Programming & Problem Solving
+* Data Structures & Algorithms
+* AI / Machine Learning
+* Full-Stack Development
+* Git & GitHub
 
 ---
 
@@ -65,19 +63,10 @@ It includes tenant management, payment records and payment-proof handling, with 
 
 ## 📊 Stats
 
-
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hazare-sab&theme=github_dark" height="180">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hazare-sab&theme=github_dark" height="180">
 
-</div>
-## 📈 Contributions
-
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hazare-sab&theme=github_dark" />
-
-</div>
+</

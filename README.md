@@ -61,20 +61,3 @@ It includes tenant management, payment records and payment-proof handling, with 
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-<img src="./profile-summary-card-output/cards/stats.svg" height="180">
-
-<img src="./profile-summary-card-output/cards/repos-per-language.svg" height="180">
-
-</div>
-
-## 📈 Contributions
-
-<div align="center">
-
-<img src="./profile-summary-card-output/cards/profile-details.svg" />
-
-</div>
